@@ -1,0 +1,18 @@
+{
+  "name": "academiajs",
+  "version": "1.0.0",
+  "description": "A palindromic number reads the same both ways.",
+  "main": "evenFibNums.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --bail --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
